@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{163740BC-A8B2-4BD4-828F-E349CB9BEF15}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="inheritance/multiple inheritance.cs">
+    <Files>
+      <File FileName="inheritance/multiple inheritance.cs" Line="54" Column="1" />
+      <File FileName="inheritance/example 2.cs" Line="6" Column="26" />
+      <File FileName="structures/shirt.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="29.07.2023" expanded="True">
+            <Node name="inheritance">
+              <Node name="multiple inheritance.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.structures PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

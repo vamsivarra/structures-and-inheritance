@@ -1,0 +1,15 @@
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.csproj.AssemblyReference.cache
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.AssemblyInfoInputs.cache
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.AssemblyInfo.cs
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.csproj.CoreCompileInputs.cache
+/Users/dundi/Projects/29.07.2023/structures/bin/Debug/net7.0/structures
+/Users/dundi/Projects/29.07.2023/structures/bin/Debug/net7.0/structures.deps.json
+/Users/dundi/Projects/29.07.2023/structures/bin/Debug/net7.0/structures.runtimeconfig.json
+/Users/dundi/Projects/29.07.2023/structures/bin/Debug/net7.0/structures.dll
+/Users/dundi/Projects/29.07.2023/structures/bin/Debug/net7.0/structures.pdb
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.dll
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/refint/structures.dll
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.pdb
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/structures.genruntimeconfig.cache
+/Users/dundi/Projects/29.07.2023/structures/obj/Debug/net7.0/ref/structures.dll
